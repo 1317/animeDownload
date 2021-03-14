@@ -1,0 +1,116 @@
+--------------------番剧信息--------------------
+Fate	11.0	2019-09-03 12:04:00	Airota&VCB-Studio	832cbe0bdb2b51248099edd57a1b195b0ece36c8
+Little Witch Academia 	40.7	2019-10-22 13:02:00	VCB-Studio	fa8011bf83c29f419c16df2f8afd97fc618a335b
+Saikin, Imouto no Yousu ga Chotto Okashiinda ga 	13.1	2019-11-28 16:35:00	Ylbud-Sub&VCB-Studio	2d22e834a1c52d9c97946d9beffff611df2b9855
+Mob Psycho 100 II 	22.2	2020-01-30 13:05:00	VCB-Studio	536ef7a390150b9eecd597ae48c2b11a2949d851
+Nande Koko ni Sensei ga!? 	10.2	2020-01-30 15:46:00	VCB-Studio	6d747ceb227f7b8156749eed68226aa22a254f38
+Mahou Shoujo Site 	27.3	2020-02-02 12:12:00	Nekomoe kissaten&VCB-Studio	d713674514ebb01e2cdf909bca799d4da0742721
+Sounan Desuka? 	5.7	2020-02-04 15:49:00	DMG&VCB-Studio	e1363d34ff469eb62869bf80f6faf3797aadebb5
+Himouto! Umaru-chan R 	31.6	2020-02-17 12:16:00	VCB-Studio	b14f098926ad088a7d428c4a709564d910b97c42
+Koe no Katachi 	23.0	2020-03-04 14:29:00	VCB-Studio	e25620d86de97dc83655f13113f5f18af2d6f5b5
+Kemurikusa 	13.1	2020-03-14 17:42:00	Lemonade&VCB-Studio	c784fc048168907b78e81a0a052b85346fa23764
+Sakasama no Patema 	11.3	2020-03-23 13:13:00	VCB-Studio	bb858e168230e404d98ba94f31bc6e78eef59ece
+Blade Runner Black Out 2022 10-bit 1080p HEVC BDRip [WEB]	1.2	2020-03-23 15:30:00	SweetSub&VCB-Studio	9d5df70beece3cf56b7680191dd151fdc0c2e999
+Zero no Tsukaima 	63.9	2020-03-25 16:50:00	VCB-Studio	525347808f34de1c4c1f9d8166d489e18f5181a5
+Gensou Mangekyou: The Memories of Phantasm 	14.1	2020-03-26 14:11:00	VCB-Studio	64b0ef5ae1c686b0dc99b83fa1480ad8b8f61b10
+Kekkai Sensen & Beyond 	23.2	2020-04-02 12:57:00	Nekomoe kissaten&VCB-Studio	26190906069a9fdcac991336e5fb86af85005994
+Iya na Kao Sarenagara Opantsu Misete Moraitai 	567.6	2019-08-27 12:18:00	VCB-Studio	934531282e384e9c36ca9c3a63320b16c44f0599
+Iya na Kao Sarenagara Opantsu Misete Moraitai 2 	641.6	2020-04-05 13:57:00	VCB-Studio	205d78f92e51647b7e3ee95beaa0591031a5759c
+Shokugeki no Souma 	101.5	2020-04-12 12:34:00	UHA-WINGS&VCB-Studio	6be06d33890e8612e0948963f9db7541c03fb685
+Uchi no Ko no Tame Naraba, Ore wa Moshikashitara Maou mo Taoseru Kamo Shirenai. 	7.0	2020-04-16 15:45:00	VCB-Studio	010cdc763efb39d0cb8ee2b931dcf5d04d2ac98c
+HELLO WORLD 10-bit 1080p HEVC BDRip [MOVIE]	24.9	2020-04-24 13:25:00	Nekomoe kissaten&VCB-Studio	3de99b749372d4229ef232ae5d8b7063e1314fe4
+Baja no Studio ~Baja no Mita Umi~ 	1.6	2020-05-07 14:22:00	Eupho&VCB-Studio	c321cd61f9aef6da059c3dd4b6b83e8578f504cb
+Koutetsujou no Kabaneri 	23.0	2020-05-20 14:13:00	Airota&VCB-Studio	a25f300ce0a362a7fe253f10bea2f90bfe8ba061
+Gekijouban Hibike! Euphonium Chikai no Finale 	12.1	2020-05-15 13:33:00	Airota&VCB-Studio	698bf2bed97c459815463277b3b14a334519b577
+Made in Abyss 	50.3	2020-12-14 16:26:00	SweetSub&VCB-Studio	9176d91eddec2be4dc8c67aa4b66a5aa58e08219
+Shinsekai Yori 	44.3	2020-05-31 16:24:00	YYDM&VCB-Studio	399a0e2611f868d7d7dbd232b459743162671a31
+Dungeon ni Deai o Motomeru no wa Machigatte Iru Darouka 	42.6	2020-06-20 13:11:00	DHR&MakariHoshiyume&VCB-Studio	d37075a4b777a68c418987eeb73720cdbcbf3e45
+Fate	13.7	2020-07-01 16:27:00	VCB-Studio	a0a779008af51f2776a6dd10f7191b03b7287dad
+Boogiepop Phantom 	10.3	2020-07-31 16:22:00	SweetSub&VCB-Studio	cab850c8b43019d16ff20c2453e207fe27a363ad
+ID:INVADED 	17.3	2020-07-21 16:09:00	SweetSub&VCB-Studio	92e81b37c203c9e420edd1863f673e5779f0e78c
+Tensei Shitara Slime Datta 	42.1	2020-07-25 12:01:00	VCB-Studio	6cf316fc0433685dd50f501eec009b046f3eb734
+Cop Craft 	15.4	2020-08-06 17:44:00	Nekomoe kissaten&VCB-Studio	27a04fb6235564bc7b65789d3e23c512c62b052b
+Shokugeki no Souma Shin no Sara 	14.8	2020-08-10 13:05:00	VCB-Studio	3307d2372e65d27d12dc5ecf41e53312da3ef5f0
+Ishuzoku Reviewers 	15.1	2020-08-25 12:03:00	VCB-Studio	77f1121e1b1f103a53eb53744cd60892d9519110
+Araburu Kisetsu no Otome-domo yo. 	14.2	2020-08-27 13:29:00	Airota&VCB-Studio	df2b429c8a0930f8aa3c06450c9ed56a86ec3902
+Tenki no Ko 	62.8	2020-09-08 15:24:00	DMG&VCB-Studio	29762f773119261c831be61fd6798c0b6119a073
+Gochuumon wa Usagi Desuka? 	69.2	2020-09-16 12:49:00	Hakugetsu&Airota&VCB-Studio	c9f08e6277e95c0870b32f7e50febabd1e8839f6
+SHIROBAKO 	34.9	2020-09-18 13:56:00	VCB-Studio	8022387102e0318b7cbc0b9821f02500fc81e34f
+PSYCHO-PASS 3 	42.8	2020-09-21 17:59:00	VCB-Studio	2821f9da84247bef9d342184d7a4f71b52600a15
+Domestic na Kanojo 	8.2	2020-09-28 15:37:00	VCB-Studio	71454aadcf4374e6446e14605d082f777e36beb3
+Kakushigoto 	17.0	2020-09-29 16:33:00	Airota&VCB-Studio	37c0c77cccfe07901024582fc55b92124f34541b
+Saenai Heroine no Sodatekata Fine 	9.3	2020-10-08 16:28:00	Mabors-Sub&Kamigami&KTXP&VCB-Studio	672ff21e4b4531c45d7c34b8796fd3a3c81544c4
+Rakuen Tsuihou -Expelled from Paradise- 	14.5	2020-10-07 17:56:00	KTXP&philosophy-raws&VCB-Studio	d42b5d450519a63e48b5b2a261d13c4235841ab8
+NEKOPARA 	12.4	2020-10-16 17:36:00	Airota&VCB-Studio	0560b78e0de43703fd3b4375079d77893fc4e6b3
+FAIRY TAIL 	155.6	2020-11-06 13:18:00	VCB-Studio	a669638f98c5a9192f2367504ea46bbf0eeba471
+Ansatsu Kyoushitsu 	58.0	2020-11-15 17:37:00	Kamigami&VCB-Studio	9a5c81ad8b3a73164aa2a4661089ba9e3a251f34
+Ansatsu Kyoushitsu 	12.5	2020-11-15 17:37:00	BeanSub&VCB-Studio	f99d350f910b43c606fea13ffbb257856ff61750
+Kyokou Suiri 	12.6	2020-12-23 15:21:00	VCB-Studio	9797028f7cac91b3fd81477bd6ef417c918729b7
+White Album 2 	18.4	2020-12-25 12:28:00	Pussub&VCB-Studio	1b1932d9ebf9f6c86f7d6cafa186391aa5c2f3f4
+One-Punch Man 10-bit 1080p HEVC BDRip [Reseed Fin]	23.3	2021-01-10 14:22:00	VCB-Studio	ee1c7bdab6956d2b7c26abae80ff2f376896eaae
+Haikyuu!! The Movie 	30.5	2021-01-10 17:09:00	VCB-Studio	dac72d2a36228fc8e9fdd073695ee1f05207f413
+Sore ga Seiyuu! 	25.5	2021-01-13 14:15:00	VCB-Studio	cca0db05209e06b677ddf9d2a7110f6a40d4bb72
+GIRLS und PANZER 	69.5	2021-01-20 14:58:00	Kamigami&Mabors-Sub&VCB-Studio	9384b0f78c79d0bc8a44d8b108e084d1f82bf061
+Gekkan Shoujo Nozaki-kun 	19.5	2021-01-21 14:22:00	Pussub&VCB-Studio	3b6ba18829f89655fee85689e0b5d0ed5dbe801f
+Princess Connect! Re:Dive 	16.0	2021-01-23 15:42:00	DMG&FZSD&VCB-Studio	778e3e9c9b7587fafca2a08328177668cd5094e4
+Boku dake ga Inai Machi 	10.5	2021-01-24 15:45:00	Kamigami&VCB-Studio	fc2fbd32931f74b86b76136c2e1b6ec2604c43dd
+--------------------中文标题--------------------
+无
+小魔女学园 
+最近，妹妹的样子有点怪？10-bit 
+灵能百分百 第二季 
+为什么老师会在这里!? 
+魔法少女网站 
+你遭难了吗
+干物妹！小埋R 
+声之形 
+烟草 
+颠倒的帕特玛 
+银翼杀手：黑暗浩劫2022 
+零之使魔 
+幻想万华镜 
+血界战线 & BEYOND 
+一脸嫌弃表情的妹子给你看胖次 
+一脸嫌弃表情的妹子给你看胖次2 
+无
+为了女儿，我说不定连魔王都能干掉。 
+你好世界 
+无
+甲铁城的卡巴内利 
+剧场版 吹响吧！上低音号～誓言的终章～ 
+来自深渊 
+来自新世界 
+无
+aleid Liner Prisma Illya Sekka no C
+不吉波普不笑之幻影死神 
+异度侵入 ID:INVADED 
+关于我转生变成史莱姆这档事 
+无
+无
+异种族风俗娘评鉴指南 
+骚动时节的少女们啊。 
+天气之子
+请问您今天要来点兔子吗？ 
+白箱 
+心理测量者 第三季 
+家有女友 
+隐瞒之事 
+路人女主的养成方法 Fine 
+乐园追放 
+猫娘乐园 
+妖精的尾巴 
+无
+无
+虚构推理 
+白色相簿2 
+一拳超人 
+排球少年!! 剧场版 
+那就是声优！ 
+少女与战车 
+月刊少女野崎君 
+公主连结Re:Dive 
+只有我不存在的城市 
+--------------------磁力链接--------------------
+--------------------失败链接--------------------
+https://vcb-s.com/archives/1446
+https://nyaa.si/view/1224752
