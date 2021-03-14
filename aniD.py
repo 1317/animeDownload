@@ -12,7 +12,7 @@ def getLinkfromVCBS(link):
     s = BeautifulSoup(r.text, 'html.parser')
     title = s.title.string.replace('\n', '')
     try:
-        chineseTitle = re.match(r'.*10....', title).group().split('/')[1][1:-6].replace(' 10-bit','')
+        chineseTitle = re.match(r'.*10....', title).group().split('/')[1][1:-6].replace(' 10-bit', '')
     except:
         chineseTitle = '无'
     nyaaLink = ''.join(s.find_all('a', text=re.compile('nyaa\.si'))[0])
@@ -37,11 +37,12 @@ def analysisNyaaPage(link):
         for i in s.find_all('div', text=re.compile(tag)):
             info[tag] = i.next_sibling.next_sibling.string.replace('&amp;', '&')
 
+    # 文件大小单位转换
     try:
         if 'GiB' in info['File size']:
-            info['File size']=float(info['File size'].replace(' GiB'))
+            info['File size'] = float(info['File size'].replace(' GiB'))
         elif 'MiB' in info['File size']:
-            info['File size']=float(info['File size'].replace(' MiB'))/1024
+            info['File size'] = float(info['File size'].replace(' MiB')) / 1024
     except:
         info['File size'] = re.match(r"[0-9\.]*", info['File size']).group()
 
@@ -57,7 +58,7 @@ def analysisNyaaPage(link):
 
 
 def getWorkInfo(link):
-    info={}
+    info = {}
     try:
         if 'vcb-s' in link:
             print(f'VCB-Studio 链接 {link}', end='\t...\t')
@@ -74,8 +75,8 @@ def getWorkInfo(link):
         if chineseTitle:
             info['ChineseTitle'] = chineseTitle
         else:
-            info['ChineseTitle']='无'
-        info['status']=True
+            info['ChineseTitle'] = '无'
+        info['status'] = True
         print('信息获取成功')
     except:
         info['status'] = False
@@ -98,22 +99,21 @@ while True:
 print('输入{}个链接，开始获取信息……\n'.format(len(linkList)))
 
 infoList = []
-count=1
-total=len(linkList)
-failedLinks=[]
+count = 1
+total = len(linkList)
+failedLinks = []
 for link in linkList:
-    print(f'[{count}/{total}]\t',end='')
+    print(f'[{count}/{total}]\t', end='')
     info = getWorkInfo(link)
     if info['status']:
         infoList.append(info)
     else:
         failedLinks.append(link)
-    count+=1
+    count += 1
 
 print(f'读取了{total}个链接\t{len(infoList)}个成功')
 if len(failedLinks):
     print(f'\t{len(failedLinks)}个失败:', '\n\t'.join(failedLinks))
-
 
 resultFileName = f'result_{int(datetime.now().timestamp())}.txt'
 with open(resultFileName, 'w', encoding='utf-8') as result:
