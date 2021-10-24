@@ -26,7 +26,7 @@ def analysisNyaaPage(link):
     s = BeautifulSoup(r.text, 'html.parser')
     title = s.title.string.replace('\n', '')
 
-    info['author'] = re.match(r'\[.+?\]', title).group()
+    info['author'] = re.match(r'[\[【].+?[\]】]', title).group()
     info['title'] = title.replace(info['author'], '').replace(' :: Nyaa', '')[1:]
     info['EnglishTitle'] = title.replace(info['author'], '').replace(' :: Nyaa', '')[1:].split('/')[0]
     info['author'] = info['author'][1:-1]
