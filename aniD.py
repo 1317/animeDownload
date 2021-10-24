@@ -4,8 +4,8 @@ from datetime import datetime, timezone, timedelta
 import requests
 from bs4 import BeautifulSoup
 
-proxies = {'http': 'socks5://127.0.0.1:10808', 'https': 'socks5://127.0.0.1:10808'}
-
+proxies = {'http': 'socks5://127.0.0.1:10888', 'https': 'socks5://127.0.0.1:10888'}
+proxy = '127.0.0.1:10888'
 
 def getLinkfromVCBS(link):
     r = requests.get(link, proxies=proxies)
