@@ -1,5 +1,6 @@
 import re
 from datetime import datetime, timezone, timedelta
+import os
 
 import requests
 from bs4 import BeautifulSoup
@@ -116,7 +117,7 @@ if len(failedLinks):
     print(f'\t{len(failedLinks)}个失败:', '\n\t'.join(failedLinks))
 
 resultFileName = f'result_{int(datetime.now().timestamp())}.txt'
-with open(resultFileName, 'w', encoding='utf-8') as result:
+with open(os.path.join(os.getcwd(),'results',resultFileName), 'w', encoding='utf-8') as result:
     result.write('-' * 20 + '番剧信息' + '-' * 20 + '\n')
     for info in infoList:
         result.write('{title}\t{size}\t{date}\t{author}\t{hash}\n'.format(title=info['title'],
